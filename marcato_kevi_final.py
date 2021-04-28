@@ -1,11 +1,3 @@
-"""
-Class: CS230--Section HB3
-Name: Kevin Marcato
-Description: Final Project
-I pledge that I have completed the programming assignment independently.
-I have not copied the code from a student or any source.
-I have not given my code to any student.
-"""
 import streamlit as st
 import numpy as np
 from numpy import cos, sin, arcsin, sqrt
