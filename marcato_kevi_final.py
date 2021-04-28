@@ -2,8 +2,8 @@ import streamlit as st
 import numpy as np
 from numpy import cos, sin, arcsin, sqrt
 import pandas as pd
-import matplotlib.pyplot as plt
-from matplotlib.patches import Patch
+import matplotlib as plt
+from matplotlib import Patch
 import seaborn as sns
 import statistics as stats
 import pydeck as pdk
